@@ -1,8 +1,6 @@
 <h1 align="center">I'm Rajeshwar Patlolla</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshwarpatlolla" alt="rajeshwarpatlolla" /> </p>
-
 <p align="center">
 html5, css3, javascript, typescript, vuejs, react, angular, nodejs, expressjs, hapijs, mongodb, mysql, aws, bootstrap, material design, d3js, redux, webpack, redis, nginx, python, django
 </p>
