@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="center">
-html5, css3, javascript, typescript, vuejs, react, angular, nodejs, expressjs, hapijs, mongodb, mysql, aws, bootstrap, material design, d3js, redux, webpack, redis, nginx, python, flask, django
+html5, css3, javascript, typescript, vuejs, react, angular, nodejs, expressjs, hapijs, mongodb, mysql, aws, bootstrap, material design, d3js, redux, webpack, redis, nginx, python, flask, django, AWS
 </p>
 
 
