@@ -1,16 +1,104 @@
-<h1 align="center">I'm Rajeshwar Patlolla</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Rajeshwar Patlolla</h1>
+
+<h3 align="center">
+Associate Architect | Full Stack Developer | Cloud & AI Enthusiast
+</h3>
 
 <p align="center">
-HTML5, CSS3, JavaScript, TypeScript, Vue.js, React, Angular, Node.js, Express.js, Hapi.js, MongoDB, MySQL, PostgreSQL, AWS, Bootstrap, Material Design, D3.js, Redux, Webpack, Redis, Nginx, Python, Flask, System Design, and Architecture Development.
+Experienced Full Stack Developer with 12+ years of expertise in scalable web applications,
+enterprise platforms, cloud-native systems, and AI-integrated solutions.
 </p>
 
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,redux,tailwind,bootstrap,materialui" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
+</p>
+
+### 🗄️ Database & Cache
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
+</p>
+
+### 🛠️ Expertise
+- System Design
+- Architecture Development
+- Microservices
+- REST APIs
+- CI/CD Pipelines
+- Performance Optimization
+- AI Integrations
+
+---
+
+## 🌟 About Me
+
+- 🔭 Working as an **Associate Architect**
+- 🌱 Exploring **AI Integrations, AWS & Scalable Systems**
+- 💡 Strong experience across **Frontend, Backend & Cloud**
+- 🚀 Passionate about building scalable applications
+- 📫 Reach me at: **rajeshwar.patlolla@gmail.com**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/rajeshwarpatlolla" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="rajeshwarpatlolla" height="20" width="20" /> &nbsp; </a>
-<a href="https://codepen.io/rajeshwarpatlolla" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-network-8/50/56-512.png" alt="rajeshwarpatlolla" height="20" width="20" /> &nbsp; </a>
-<a href="https://stackoverflow.com/users/4337125" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" alt="4337125" height="20" width="20" /> &nbsp; </a>
-<a href="https://medium.com/@rajeshwar.patlolla" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Medium-512.png" alt="@rajeshwar.patlolla" height="20" width="20" /> &nbsp; </a>
-<a href="https://fb.com/rajeshwarpatlolla" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-square2-512.png" alt="rajeshwarpatlolla" height="20" width="20" /> &nbsp; </a>
-<a href="https://twitter.com/rajeshwar_9032" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="rajeshwar_9032" height="20" width="20" /> &nbsp; </a>
+  <a href="https://linkedin.com/in/rajeshwarpatlolla" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://stackoverflow.com/users/4337125" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://medium.com/@rajeshwar.patlolla" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+      height="35"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://twitter.com/rajeshwar_9032" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://fb.com/rajeshwarpatlolla" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+  </a>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshwarpatlolla&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🧠 Quote
+
+<p align="center">
+  <i>"Building scalable products with clean architecture and great user experience."</i>
 </p>
